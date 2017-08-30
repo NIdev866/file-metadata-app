@@ -1,0 +1,19 @@
+{
+  "name": "file_metadata_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NIdev866/file-metadata-app.git"
+  },
+  "author": "Nikodem Ignas (nidev866)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NIdev866/file-metadata-app/issues"
+  },
+  "homepage": "https://github.com/NIdev866/file-metadata-app#readme"
+}
