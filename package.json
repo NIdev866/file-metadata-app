@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/NIdev866/file-metadata-app/issues"
   },
-  "homepage": "https://github.com/NIdev866/file-metadata-app#readme"
+  "homepage": "https://github.com/NIdev866/file-metadata-app#readme",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "express": "^4.15.4"
+  }
 }
